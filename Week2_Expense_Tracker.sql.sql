@@ -59,3 +59,5 @@ ALTER TABLE Income
 DROP COLUMN source;
 
 -- 4.4 Drop the "Income" table:
+DROP TABLE Income;
+
